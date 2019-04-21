@@ -5,6 +5,7 @@
 测试:
 在地址栏输入:
 http://localhost:8080/user/save?id=1&name=tom
+
 http://localhost:8080/user/save?id=2&name=jack
 查看数据库发现：
 id为1的数据插入到数据库db02中的user表。
